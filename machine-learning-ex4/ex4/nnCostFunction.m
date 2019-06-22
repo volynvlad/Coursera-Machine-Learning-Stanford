@@ -126,3 +126,7 @@ grad = [Theta1_grad(:) ; Theta2_grad(:)];
 
 
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> 51c250ced373858d5b418cac2a54694b81cc6271
